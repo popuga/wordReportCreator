@@ -1,2 +1,2 @@
-# comednwordReportCreator
+# wordReportCreator
 Word report creator
